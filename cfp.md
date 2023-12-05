@@ -74,7 +74,7 @@ Submissions should be formatted following the LNCS formatting style which is ava
 
 The EasyChair submission page can be found here: [https://easychair.org/my/conference?conf=emas2024](https://easychair.org/my/conference?conf=emas2024)
 
-Authors of accepted papers will be invited to submit revised and extended versions of the EMAS papers for inclusion in the post-proceedings that will be published as a volume in Springer's Lecture Notes in Artificial Intelligence (LNAI).
+Authors of accepted papers may be invited to submit revised and extended versions of the EMAS papers for inclusion in the post-proceedings that will be published as a volume in Springer's Lecture Notes in Artificial Intelligence (LNAI).
 
 ***
 
