@@ -15,8 +15,8 @@ A key unifying theme underlying Artificial Intelligence is the idea of intellige
 ***
 
 # Important Dates
-| Paper submission | February 23, 2024 |
-| --- | --- |
-| Author notification | March 25, 2024 |
-| Camera-ready | April 19, 2024 |
-| Workshop | May 6-7, 2024 |
+| Paper submission    | February 23, 2024 |
+|---------------------|-------------------|
+| Author notification | March 25, 2024    |
+| Camera-ready        | April 19, 2024    |
+| Workshop            | May 6-7, 2024     |
