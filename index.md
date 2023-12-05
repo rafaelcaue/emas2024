@@ -5,7 +5,7 @@ show_excerpts: true
 entries_layout: list
 ---
 
-Co-located with [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/), Auckland, New Zealand
+### Co-located with [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/), Auckland, New Zealand
 
 ***
 
