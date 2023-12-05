@@ -1,7 +1,15 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: About
   url: /
+- title: Call For papers
+  url: /cfp/
+- title: Committees
+  url: /committees/
+- title: Accepted Papers
+  url: /accepted/
+- title: Programmee
+  url: /program/
 # - title: Posts
 #   url: /posts/
 # - title: Categories
