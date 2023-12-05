@@ -5,6 +5,40 @@ show_excerpts: true
 entries_layout: list
 ---
 
+# Important Dates
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Paper submission</th>
+    <th class="tg-0pky">February 23, 2024</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Author notification</td>
+    <td class="tg-0pky">March 25, 2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Camera-ready</td>
+    <td class="tg-0pky">April 19, 2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Workshop</td>
+    <td class="tg-0pky">May 6-7, 2024</td>
+  </tr>
+</tbody>
+</table>
+
+***
+
 # Topics
 Despite the substantial body of knowledge and expertise developed in the design and development of Multi-Agent Systems (MAS), the systematic development of large-scale and open MAS still poses many challenges. Even though various languages, models, techniques and methodologies have been proposed in the literature, researchers and developers are still faced with fundamental questions attaining MAS engineering, such as:
 - How to specify, design, implement, verify, test and validate large-scale and open MAS?
