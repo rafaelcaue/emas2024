@@ -70,9 +70,9 @@ We solicit four types of submissions:
 
 **Submission policy**: all papers should be original and not be submitted elsewhere. The review process is single blind: submissions should not be blind, reviewers will be.
 
-Submissions should be formatted following the LNCS formatting style which is available via: http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+Submissions should be formatted following the LNCS formatting style which is available via: [](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
-The EasyChair submission page can be found here: https://easychair.org/my/conference?conf=emas2024
+The EasyChair submission page can be found here: [](https://easychair.org/my/conference?conf=emas2024)
 
 Authors of accepted papers will be invited to submit revised and extended versions of the EMAS papers for inclusion in the post-proceedings that will be published as a volume in Springer's Lecture Notes in Artificial Intelligence (LNAI).
 
