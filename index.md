@@ -27,17 +27,17 @@ A key unifying theme underlying Artificial Intelligence is the idea of intellige
 <thead>
   <tr>
     <th class="tg-0pky">Paper submission</th>
-    <th class="tg-0pky">February 23, 2024</th>
+    <th class="tg-0pky"><s>February 23, 2024</s> March 4, 2024 (AoE, UTC-12)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0pky">Author notification</td>
-    <td class="tg-0pky">March 25, 2024</td>
+    <td class="tg-0pky">March 25, 2024 (AoE, UTC-12)</td>
   </tr>
   <tr>
     <td class="tg-0pky">Camera-ready</td>
-    <td class="tg-0pky">April 19, 2024</td>
+    <td class="tg-0pky">April 19, 2024 (AoE, UTC-12)</td>
   </tr>
   <tr>
     <td class="tg-0pky">Workshop</td>
