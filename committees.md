@@ -52,6 +52,7 @@ entries_layout: list
 - Yi Yang (KU Leuven, Belgium)
 - Vahid	Yazdanpanah (University of Southampton, UK)
 - Neil Yorke-Smith (Delft University of Technology, Netherlands)
+- Rym Zalila-Wenkstern (University of Texas at Dallas)
 
 ***
 
