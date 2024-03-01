@@ -39,12 +39,14 @@ entries_layout: list
 - Philippe Mathieu (University of Lille, France)
 - Viviana Mascardi (University of Genova)
 - Simon Mayer (University of St. Gallen, Switzerland)
+- Felipe Meneguzzi (University of Aberdeen, UK)
 - Roberto Micalizio (Universita' di Torino, Italy)
 - Jörg P.	Müller (TU Clausthal, Germany)
 - Luis Gustavo Nardin (Mines Saint-Etienne, France)
 - Alessandro Ricci (University of Bologna, Italy)
 - Sebastian	Rodriguez (RMIT University, Australia)
 - Luca Sabatucci (ICAR-CNR, Italy)
+- Amal El Fallah Seghrouchni (LIP6 - University of Pierre and Marie Curie, France)
 - Valeria	Seidita (Università degli Studi di Palermo, Italy)
 - Viviane	Torres da Silva (IBM, Brazil)
 - Gerhard	Weiss (University Maastricht, Netherlands)
@@ -52,7 +54,7 @@ entries_layout: list
 - Yi Yang (KU Leuven, Belgium)
 - Vahid	Yazdanpanah (University of Southampton, UK)
 - Neil Yorke-Smith (Delft University of Technology, Netherlands)
-- Rym Zalila-Wenkstern (University of Texas at Dallas)
+- Rym Zalila-Wenkstern (University of Texas at Dallas, USA)
 
 ***
 
