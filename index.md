@@ -33,7 +33,7 @@ A key unifying theme underlying Artificial Intelligence is the idea of intellige
 <tbody>
   <tr>
     <td class="tg-0pky">Author notification</td>
-    <td class="tg-0pky">March 25, 2024 (AoE, UTC-12)</td>
+    <td class="tg-0pky">April 1, 2024 (AoE, UTC-12)</td>
   </tr>
   <tr>
     <td class="tg-0pky">Camera-ready</td>
