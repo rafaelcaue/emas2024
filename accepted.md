@@ -10,6 +10,7 @@ entries_layout: list
 - Sanjay Chandlekar and Easwar Subramanian. *A Novel Bidding Strategy for PDAs using MCTS in Continuous Action Spaces*
 - Alexandre Yukio Ichida, Felipe Meneguzzi and Rafael C. Cardoso. *BDI Agents in Natural Language Environments*
 - Masaki Ishizaka, Akihito Taya and Yoshito Tobe. *SPARKIT: A Mind Map-Based MAS for Idea Generation Support*
+- Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. *Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand*
 - Samira Shirzadehhajimahmood, Wishnu Prasetya, Mehdi Dastani and Frank Dignum. *Cooperative Multi-agent Approach for Automated Computer Game Testing*
 - Sizhe Wang, Long Qian, Cairun Yi, Fan Wu, Qian Kou, Mingyang Li, Xingyu Chen and Xuguang Lan. *SADMA: Scalable Asynchronous Distributed Multi-Agent Reinforcement Learning Training Framework*
 - Yi Yang and Tom Holvoet. *Enhancing Confidence of the vGOAL Interpreter Using SAT Solving*
