@@ -5,7 +5,7 @@ show_excerpts: true
 entries_layout: list
 ---
 
-# Programmee
+# Programme
 Short papers are up to 20 minutes (up to 15 minutes of presentation and at least 5 minutes of questions).   
 Full papers are up to 30 minutes (up to 25 minutes of presentation and at least 5 minutes of questions).   
 Invited talks are up to 60 minutes (up to 50 minutes of presentation and at least 10 minutes of questions).   
