@@ -47,7 +47,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 <p style="margin-top: -10px;"> <b>Abstract:</b> The agile software development life cycle is widely used in industry today due to its highly flexible and iterative processes that facilitate rapid prototyping. In this talk, we advocate to close the gap between mainstream software engineering and agent technology by adopting and adapting well-known and accepted techniques. We introduce an agile approach to capturing requirements in agent systems via user and system stories and how to translate these requirements into goal-oriented agent models. We cover how to define test cases to verify the expected system behaviour following a Behaviour-Driven Development (BDD) approach. We leverage a range of state-of-the-art development tools, inheriting the rich set of features they provide. Finally, we discuss future directions and opportunities. </p>
 
-**Bio:** TBA
+**Bio:** Sebastian specialises in software engineering for artificial intelligence systems. He has been involved in a wide range of projects applying AI and SE solutions to industry applications such as transportation, logistics and business processes. He also founded start-ups applying AI techniques to energy management; 3D simulations; and new business models for media companies. Additionally, he is an active contributor to open-source software for AI systems and a core member of the SARL programming language.
 
 # Sessions
 
