@@ -68,11 +68,11 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 <table>
   <tr>
-    <td NOWRAP><b>9:20-9:40</b></td>
+    <td NOWRAP><b>10:30-11:00</b></td>
     <td>Martina Baiardi, Samuele Burattini, Giovanni Ciatto, Danilo Pianini, Alessandro Ricci and Andrea Omicini. <em>On the external concurrency of current BDI frameworks for MAS</em></td>
   </tr>
   <tr>
-    <td NOWRAP><b>9:40-10:00</b></td>
+    <td NOWRAP><b>11:00-11:30</b></td>
     <td>Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. <em>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</em></td>
   </tr>
 </table>
@@ -81,11 +81,11 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 <table>
   <tr>
-    <td NOWRAP><b>9:20-9:40</b></td>
+    <td NOWRAP><b>11:30-12:00</b></td>
     <td>Alexandre Yukio Ichida, Felipe Meneguzzi and Rafael C. Cardoso. <em>BDI Agents in Natural Language Environments</em></td>
   </tr>
   <tr>
-    <td NOWRAP><b>9:40-10:00</b></td>
+    <td NOWRAP><b>12:00-12:30</b></td>
     <td>Masaki Ishizaka, Akihito Taya and Yoshito Tobe. <em>SPARKIT: A Mind Map-Based MAS for Idea Generation Support</em></td>
   </tr>
 </table>
@@ -94,11 +94,11 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 <table>
   <tr>
-    <td NOWRAP><b>9:20-9:40</b></td>
+    <td NOWRAP><b>15:00-15:30</b></td>
     <td>Sanjay Chandlekar and Easwar Subramanian. <em>A Novel Bidding Strategy for PDAs using MCTS in Continuous Action Spaces</em></td>
   </tr>
   <tr>
-    <td NOWRAP><b>9:40-10:00</b></td>
+    <td NOWRAP><b>15:30-16:00</b></td>
     <td>Sizhe Wang, Long Qian, Cairun Yi, Fan Wu, Qian Kou, Mingyang Li, Xingyu Chen and Xuguang Lan. <em>SADMA: Scalable Asynchronous Distributed Multi-Agent Reinforcement Learning Training Framework</em></td>
   </tr>
 </table>
@@ -107,11 +107,11 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 <table>
   <tr>
-    <td NOWRAP><b>9:20-9:40</b></td>
+    <td NOWRAP><b>16:30-16:50</b></td>
     <td>Alessandro Ricci, Samuele Burattini, Matteo Castellucci and Andrei Ciortea. <em>Agents for DDD – Back and Forth</em></td>
   </tr>
   <tr>
-    <td NOWRAP><b>9:40-10:00</b></td>
+    <td NOWRAP><b>16:50-17:10</b></td>
     <td>Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. <em>A Procedural Model for Conceptualizing and Implementing Spade Agents</em></td>
   </tr>
 </table>
@@ -133,11 +133,11 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 <table>
   <tr>
-    <td NOWRAP><b>9:20-9:40</b></td>
+    <td NOWRAP><b>10:30-11:00</b></td>
     <td>Yi Yang and Tom Holvoet. <em>Enhancing Confidence of the vGOAL Interpreter Using SAT Solving</em></td>
   </tr>
   <tr>
-    <td NOWRAP><b>9:40-10:00</b></td>
+    <td NOWRAP><b>11:00-11:30</b></td>
     <td>Samira Shirzadehhajimahmood, Wishnu Prasetya, Mehdi Dastani and Frank Dignum. <em>Cooperative Multi-agent Approach for Automated Computer Game Testing</em></td>
   </tr>
 </table>
@@ -146,11 +146,11 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 <table>
   <tr>
-    <td NOWRAP><b>9:20-9:40</b></td>
+    <td NOWRAP><b>11:30-11:50</b></td>
     <td>Alessandro Ricci, Stefano Mariani, Franco Zambonelli, Samuele Burattini and Cristiano Castelfranchi. <em>The Cognitive Hourglass: Agent Abstractions in the Large Models Era</em></td>
   </tr>
   <tr>
-    <td NOWRAP><b>9:40-10:00</b></td>
+    <td NOWRAP><b>11:50-12:10</b></td>
     <td>Emiliano Lorini, Magalie Ochs and Nicolas Sabouret. <em>Cognitive Planning for Persuasive Multimodal Interaction</em></td>
   </tr>
 </table>
