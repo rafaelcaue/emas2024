@@ -129,7 +129,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s7"></a> **Correctness and Testing (Chair: Michael Winikoff)**
+### <a id="s7"></a> **Correctness and Testing (Chair: TBA)**
 
 <table>
   <tr>
@@ -142,7 +142,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s8"></a> **Cognitive Agents (Chair: TBA)**
+### <a id="s8"></a> **Cognitive Agents (Chair: Michael Winikoff)**
 
 <table>
   <tr>
