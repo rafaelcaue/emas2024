@@ -64,16 +64,16 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s2"></a> **BDI Agents (Chair: TBA)**
+### <a id="s2"></a> **Planning and Learning (Chair: Felipe Meneguzzi)**
 
 <table>
   <tr>
     <td NOWRAP><b>10:30-11:00</b></td>
-    <td>Martina Baiardi, Samuele Burattini, Giovanni Ciatto, Danilo Pianini, Alessandro Ricci and Andrea Omicini. <em>On the external concurrency of current BDI frameworks for MAS</em></td>
+    <td>Sanjay Chandlekar and Easwar Subramanian. <em>A Novel Bidding Strategy for PDAs using MCTS in Continuous Action Spaces</em></td>
   </tr>
   <tr>
     <td NOWRAP><b>11:00-11:30</b></td>
-    <td>Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. <em>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</em></td>
+    <td>Sizhe Wang, Long Qian, Cairun Yi, Fan Wu, Qian Kou, Mingyang Li, Xingyu Chen and Xuguang Lan. <em>SADMA: Scalable Asynchronous Distributed Multi-Agent Reinforcement Learning Training Framework</em></td>
   </tr>
 </table>
 
@@ -90,16 +90,16 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s4"></a> **Planning and Learning (Chair: Felipe Meneguzzi)**
+### <a id="s4"></a> **BDI Agents (Chair: TBA)**
 
 <table>
   <tr>
     <td NOWRAP><b>15:00-15:30</b></td>
-    <td>Sanjay Chandlekar and Easwar Subramanian. <em>A Novel Bidding Strategy for PDAs using MCTS in Continuous Action Spaces</em></td>
+    <td>Martina Baiardi, Samuele Burattini, Giovanni Ciatto, Danilo Pianini, Alessandro Ricci and Andrea Omicini. <em>On the external concurrency of current BDI frameworks for MAS</em></td>
   </tr>
   <tr>
     <td NOWRAP><b>15:30-16:00</b></td>
-    <td>Sizhe Wang, Long Qian, Cairun Yi, Fan Wu, Qian Kou, Mingyang Li, Xingyu Chen and Xuguang Lan. <em>SADMA: Scalable Asynchronous Distributed Multi-Agent Reinforcement Learning Training Framework</em></td>
+    <td>Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. <em>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</em></td>
   </tr>
 </table>
 
