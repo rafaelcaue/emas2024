@@ -51,7 +51,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 # Sessions
 
-### <a id="s1"></a> **Agent Design (Chair: TBA)**
+### <a id="s1"></a> **Agent Design (Chair: Louise Dennis)**
 
 <table>
   <tr>
