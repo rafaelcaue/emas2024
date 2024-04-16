@@ -90,7 +90,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s4"></a> **Planning and Learning (Chair: TBA)**
+### <a id="s4"></a> **Planning and Learning (Chair: Felipe Meneguzzi)**
 
 <table>
   <tr>
