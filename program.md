@@ -14,7 +14,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 |-----------------|----------------------------------------------------|---------------------------------------------------------------|
 | **8:00-8:30**   | Registration Opens                                 | Registration Opens                                            |
 | **8:30-9:20**   | Arrival & Welcome                                  | Arrival & Welcome                                             |
-| **9:20-10:00**  | [Session 1 (short): Agent Design](#s1)             | [Session 6 (short): Explainability and Trust](#s6)            |
+| **9:20-10:00**  | [Session 1 (short): Applications](#s1)             | [Session 6 (short): Explainability and Trust](#s6)            |
 | **10:00-10:30** | Coffee Break                                       | Coffee Break                                                  |
 | **10:30-11:30** | [Session 2: BDI Agents](#s2)                       | [Session 7: Correctness and Testing](#s7)                     |
 | **11:30-12:30** | [Session 3: Agents and LLMs](#s3)                  | [Session 8 (short): Cognitive Agents](#s8)                    |
@@ -22,7 +22,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 | **14:00-15:00** | [Invited Talk: Stephen Cranefield](#talk1)         | [Invited Talk: Sebastian Rodriguez](#talk2)                   |
 | **15:00-16:00** | [Session 4: Planning and Learning](#s4)            | [Community Discussion](https://forms.office.com/e/4MC4XtzVcb) |
 | **16:00-16:30** | Coffee Break                                       | Coffee Break                                                  |
-| **16:30-17:10** | [Session 5 (short): Applications](#s5)             | Community Discussion Overview and Closing                     |
+| **16:30-17:10** | [Session 5 (short): Agent Design](#s5)             | Community Discussion Overview and Closing                     |
 
 
 # Invited Talks
@@ -51,16 +51,16 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 # Sessions
 
-### <a id="s1"></a> **Agent Design (Chair: Louise Dennis)**
+### <a id="s1"></a> **Applications (Chair: Louise Dennis)**
 
 <table>
   <tr>
     <td NOWRAP><b>9:20-9:40</b></td>
-    <td>Alessandro Ricci, Samuele Burattini, Matteo Castellucci and Andrei Ciortea. <em>Agents for DDD – Back and Forth</em></td>
+    <td>Ginel Dorleon, Khang Nguyen Hoang, Vy Le, Harold Joergensen Oliver and Tin Nguyen. <em>Optimizing Elevator Systems: A Comparative Study of SARL Multi-Agent Systems using Centralized vs. Distributed Approaches</em></td>
   </tr>
   <tr>
     <td NOWRAP><b>9:40-10:00</b></td>
-    <td>Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. <em>A Procedural Model for Conceptualizing and Implementing Spade Agents</em></td>
+    <td>Dennis Maecker, Henning Gösling and Timon Sachweh. <em>Setting up a ROS2-based Multi-Agent System implementing the Contract Net Protocol and IDS Connectors</em></td>
   </tr>
 </table>
 
@@ -103,16 +103,16 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s5"></a> **Applications (Chair: Yi Yang)**
+### <a id="s5"></a> **Agent Design (Chair: Yi Yang)**
 
 <table>
   <tr>
     <td NOWRAP><b>16:30-16:50</b></td>
-    <td>Ginel Dorleon, Khang Nguyen Hoang, Vy Le, Harold Joergensen Oliver and Tin Nguyen. <em>Optimizing Elevator Systems: A Comparative Study of SARL Multi-Agent Systems using Centralized vs. Distributed Approaches</em></td>
+    <td>Alessandro Ricci, Samuele Burattini, Matteo Castellucci and Andrei Ciortea. <em>Agents for DDD – Back and Forth</em></td>
   </tr>
   <tr>
     <td NOWRAP><b>16:50-17:10</b></td>
-    <td>Dennis Maecker, Henning Gösling and Timon Sachweh. <em>Setting up a ROS2-based Multi-Agent System implementing the Contract Net Protocol and IDS Connectors</em></td>
+    <td>Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. <em>A Procedural Model for Conceptualizing and Implementing Spade Agents</em></td>
   </tr>
 </table>
 
