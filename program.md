@@ -103,7 +103,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s5"></a> **Applications (Chair: TBA)**
+### <a id="s5"></a> **Applications (Chair: Yi Yang)**
 
 <table>
   <tr>
