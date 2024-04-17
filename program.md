@@ -51,7 +51,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 # Sessions
 
-### <a id="s1"></a> **Applications (Chair: Louise Dennis)**
+### <a id="s1"></a> **Applications (Chair: Ömer Ibrahim Erduran)**
 
 <table>
   <tr>
@@ -77,7 +77,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s3"></a> **Agents and LLMs (Chair: TBA)**
+### <a id="s3"></a> **Agents and LLMs (Chair: Louise Dennis)**
 
 <table>
   <tr>
