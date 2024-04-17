@@ -129,7 +129,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s7"></a> **Correctness and Testing (Chair: TBA)**
+### <a id="s7"></a> **Correctness and Testing (Chair: Emiliano Lorini)**
 
 <table>
   <tr>
