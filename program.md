@@ -17,7 +17,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 | **9:20-10:00**  | [Session 1 (short): Agent Design I](#s1)           | [Session 6 (short): Explainability and Trust](#s6)            |
 | **10:00-10:30** | Coffee Break                                       | Coffee Break                                                  |
 | **10:30-11:30** | [Session 2: Planning and Learning](#s2)            | [Session 7: Correctness and Testing](#s7)                     |
-| **11:30-12:30** | [Session 3: Agents and LLMs](#s3)                  | [Session 8 (short): Cognitive Agents](#s8)                    |
+| **11:30-12:30** | [Session 3: Agent Development](#s3)                | [Session 8 (short): Cognitive Agents](#s8)                    |
 | **12:30-14:00** | Lunch Break                                        | Lunch Break                                                   |
 | **14:00-15:00** | [Invited Talk: Stephen Cranefield](#talk1)         | [Invited Talk: Sebastian Rodriguez](#talk2)                   |
 | **15:00-16:00** | [Session 4: BDI Agents](#s4)                       | [Community Discussion](https://forms.office.com/e/4MC4XtzVcb) |
