@@ -22,7 +22,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 | **14:00-15:00** | [Invited Talk: Stephen Cranefield](#talk1)         | [Invited Talk: Sebastian Rodriguez](#talk2)                   |
 | **15:00-16:00** | [Session 4: BDI Agents](#s4)                       | [Community Discussion](https://forms.office.com/e/4MC4XtzVcb) |
 | **16:00-16:30** | Coffee Break                                       | Coffee Break                                                  |
-| **16:30-17:10** | [Session 5 (short): Agent Design](#s5)             | Community Discussion Overview and Closing                     |
+| **16:30-16:50** | [Session 5 (short): Agent Design](#s5)             | Community Discussion Overview and Closing                     |
 
 
 # Invited Talks
@@ -51,12 +51,12 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 # Sessions
 
-### <a id="s1"></a> **Applications (Chair: Ömer Ibrahim Erduran)**
+### <a id="s1"></a> **Agent Design I (Chair: Ömer Ibrahim Erduran)**
 
 <table>
   <tr>
     <td NOWRAP><b>9:20-9:40</b></td>
-    <td>Ginel Dorleon, Khang Nguyen Hoang, Vy Le, Harold Joergensen Oliver and Tin Nguyen. <em>Optimizing Elevator Systems: A Comparative Study of SARL Multi-Agent Systems using Centralized vs. Distributed Approaches</em></td>
+    <td>Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. <em>A Procedural Model for Conceptualizing and Implementing Spade Agents</em></td>
   </tr>
   <tr>
     <td NOWRAP><b>9:40-10:00</b></td>
@@ -77,12 +77,12 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
 </table>
 
-### <a id="s3"></a> **Agents and LLMs (Chair: Louise Dennis)**
+### <a id="s3"></a> **Agent Development (Chair: Louise Dennis)**
 
 <table>
   <tr>
     <td NOWRAP><b>11:30-12:00</b></td>
-    <td>Alexandre Yukio Ichida, Felipe Meneguzzi and Rafael C. Cardoso. <em>BDI Agents in Natural Language Environments</em></td>
+    <td>Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. <em>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</em></td>
   </tr>
   <tr>
     <td NOWRAP><b>12:00-12:30</b></td>
@@ -99,20 +99,16 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
   </tr>
   <tr>
     <td NOWRAP><b>15:30-16:00</b></td>
-    <td>Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. <em>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</em></td>
+    <td>Alexandre Yukio Ichida, Felipe Meneguzzi and Rafael C. Cardoso. <em>BDI Agents in Natural Language Environments</em></td>
   </tr>
 </table>
 
-### <a id="s5"></a> **Agent Design (Chair: Yi Yang)**
+### <a id="s5"></a> **Agent Design II (Chair: Yi Yang)**
 
 <table>
   <tr>
     <td NOWRAP><b>16:30-16:50</b></td>
     <td>Alessandro Ricci, Samuele Burattini, Matteo Castellucci and Andrei Ciortea. <em>Agents for DDD – Back and Forth</em></td>
-  </tr>
-  <tr>
-    <td NOWRAP><b>16:50-17:10</b></td>
-    <td>Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. <em>A Procedural Model for Conceptualizing and Implementing Spade Agents</em></td>
   </tr>
 </table>
 
