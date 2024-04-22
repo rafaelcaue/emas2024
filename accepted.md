@@ -16,8 +16,8 @@ entries_layout: list
 - Yi Yang and Tom Holvoet. *Enhancing Confidence of the vGOAL Interpreter Using SAT Solving*
 
 # Short Papers
-- Ginel Dorleon, Khang Nguyen Hoang, Vy Le, Harold Joergensen Oliver and Tin Nguyen. *Optimizing Elevator Systems: A Comparative Study of SARL Multi-Agent Systems using Centralized vs. Distributed Approaches*
-- Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. *A Procedural Model for Conceptualizing and Implementing Spade Agents*
+- ~~Ginel Dorleon, Khang Nguyen Hoang, Vy Le, Harold Joergensen Oliver and Tin Nguyen. *Optimizing Elevator Systems: A Comparative Study of SARL Multi-Agent Systems using Centralized vs. Distributed Approaches*~~
+- Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. *A Procedure for Conceptualizing and Implementing Spade Agents*
 - Emiliano Lorini, Magalie Ochs and Nicolas Sabouret. *Cognitive Planning for Persuasive Multimodal Interaction*
 - Dennis Maecker, Felix Harenbrock, Henning Gösling, Timon Sachweh and Oliver Thomas. *Synergizing Trust and Autonomy: Gaia-X Enabled Multi-Agent Ecosystems for Advanced Freight Fleet Management*
 - Alessandro Ricci, Stefano Mariani, Franco Zambonelli, Samuele Burattini and Cristiano Castelfranchi. *The Cognitive Hourglass: Agent Abstractions in the Large Models Era*
