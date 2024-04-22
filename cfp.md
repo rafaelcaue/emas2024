@@ -79,7 +79,6 @@ Authors of accepted papers may be invited to submit revised and extended version
 ***
 
 # Awards
-- **Student paper award**: Papers where the main author is a student should be identified as such and will be eligible for the best student paper award.
-- **Best regular paper award**: We will also select the best paper amongst the regular papers where the main author is not a student.
+We will select a paper for the best paper award based on reviewers' scores and recommendations.
 
 
