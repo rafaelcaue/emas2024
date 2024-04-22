@@ -26,3 +26,6 @@ entries_layout: list
 
 # Student Papers
 - Dennis Maecker, Henning Gösling and Timon Sachweh. *Setting up a ROS2-based Multi-Agent System implementing the Contract Net Protocol and IDS Connectors*
+
+# Best Paper Award
+And the best paper award for EMAS 2024 goes to ... (to be announced at EMAS 2024 closing)
