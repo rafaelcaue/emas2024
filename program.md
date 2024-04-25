@@ -22,22 +22,25 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 | **14:00-15:00** | [Invited Talk: Stephen Cranefield](#talk1)         | [Invited Talk: Sebastian Rodriguez](#talk2)                   |
 | **15:00-16:00** | [Session 4: BDI Agents](#s4)                       | [Community Discussion](https://forms.office.com/e/4MC4XtzVcb) |
 | **16:00-16:30** | Coffee Break                                       | Coffee Break                                                  |
-| **16:30-17:10** | [Session 5 (short): Agent Design II](#s5)          | Community Discussion Overview and Closing                     |
+| **16:30-16:50** | [Session 5 (short): Agent Design II](#s5)          | Community Discussion Overview                                 |
+| **16:50-17:10** | IIPC Discussion                                    | Awards and Closing                                            |
 
 
 # Invited Talks
 
-### <a id="talk1"></a> **Stephen Cranefield: TBA**
+### <a id="talk1"></a> **Stephen Cranefield: Engineering Social Order in Multi-Agent Systems**
 
 (Chair: Rafael C. Cardoso)
 
 <img src="{{ '/assets/images/stephen.jpg' | relative_url }}" alt="Stephen Cranefield" style="max-width: 150px; float: left; margin-left: 10px; margin-right: 10px;">
 
-<p style="margin-top: -10px;"> <b>Abstract:</b> TBA </p>
+<p style="margin-top: -10px;"> <b>Abstract:</b> One of my long-standing research interests is to develop practical techniques for agents to understand the social constraints they and other agents are operating under, so they can coordinate more effectively without relying on centralised infrastructure. I will begin this talk with a brief overview of my prior work on monitoring social expectations, learning norms from observation, following social practices and proposing and executing group plans.
+  
+I will then discuss recent work on a practical technique for recognising common belief, which is an important enabler of efficient coordination within groups. Our approach is based on philosopher David Lewis's account of common knowledge (which is really about warranted common belief). It considers the common case where (i) a publicly observable “state of affairs” A (which we view as a set of percepts) indicates to an agent that some proposition P holds, and (ii) through reasoning about shared background knowledge and standards of reasoning, the agent can infer that other agents should also believe P. Prior work does not provide a precise and satisfactory definition of the nature of indication, nor does it explain how agents reason about shared knowledge and reasoning standards. We propose specific mechanisms based on theory-of-mind (ToM) rules in a forward-chaining rule engine. We prove that only two levels of ToM modelling is required to recognise the existence of common belief. The approach is implemented using the Prolog Forward Chaining (Pfc) library and can be used in conjunction with the Jason agent platform. We illustrate the approach in a scenario from classical Athens of decision-making requiring common belief of the information on a public monument.
 
-<br><br><br><br><br>
+  </p>
 
-**Bio:** TBA
+**Bio:** Stephen is a full professor in the School of Computing at the University of Otago, in Dunedin, New Zealand. Ater an undergraduate degree in Mathematics and Computer Science from Otago, he received a PhD from the (former) Department of Artificial Intelligence at the University of Edinburgh. His main research interest is on techniques for engineering social order in open communities of autonomous agents by adapting social concepts and mechanisms observed in human society, with a focus on normative multi-agent systems.
 
 ### <a id="talk2"></a> **Sebastian Rodriguez: Agile Approach for Agent Oriented Software Engineering**
 
