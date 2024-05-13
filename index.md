@@ -43,5 +43,9 @@ A key unifying theme underlying Artificial Intelligence is the idea of intellige
     <td class="tg-0pky">Workshop</td>
     <td class="tg-0pky">May 6-7, 2024</td>
   </tr>
+  <tr>
+    <td class="tg-0pky">Post-Proceedings paper submission</td>
+    <td class="tg-0pky">May 31, 2024</td>
+  </tr>
 </tbody>
 </table>
