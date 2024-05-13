@@ -30,6 +30,8 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 
 ### <a id="talk1"></a> **Stephen Cranefield: Engineering Social Order in Multi-Agent Systems**
 
+(<a target="_blank" href="{{ '/assets/slides/Cranefield EMAS 2024.pdf' | relative_url }}"> Slides </a>)
+
 (Chair: Rafael C. Cardoso)
 
 <img src="{{ '/assets/images/stephen.jpg' | relative_url }}" alt="Stephen Cranefield" style="max-width: 150px; float: left; margin-left: 10px; margin-right: 10px;">
@@ -43,6 +45,8 @@ I will then discuss recent work on a practical technique for recognising common 
 **Bio:** Stephen is a full professor in the School of Computing at the University of Otago, in Dunedin, New Zealand. Ater an undergraduate degree in Mathematics and Computer Science from Otago, he received a PhD from the (former) Department of Artificial Intelligence at the University of Edinburgh. His main research interest is on techniques for engineering social order in open communities of autonomous agents by adapting social concepts and mechanisms observed in human society, with a focus on normative multi-agent systems.
 
 ### <a id="talk2"></a> **Sebastian Rodriguez: Agile Approach for Agent Oriented Software Engineering**
+
+(<a target="_blank" href="{{ '/assets/slides/Sebastian-EMAS.pdf' | relative_url }}"> Slides </a>)
 
 (Chair: Brian Logan)
 
