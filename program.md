@@ -63,11 +63,11 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>9:20-9:40</b></td>
-    <td>Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. <em>A Procedure for Conceptualizing and Implementing Spade Agents</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_4 (1).pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Henning Gösling, Dennis Maecker, Tom Pieper, Timon Sachweh and Christoph Heinbach. <em>A Procedure for Conceptualizing and Implementing Spade Agents</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_4 (1).pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 1 - Paper 1.pptx' | relative_url }}"> Slides </a>)</td>
   </tr>
   <tr>
     <td NOWRAP><b>9:40-10:00</b></td>
-    <td>Dennis Maecker, Henning Gösling and Timon Sachweh. <em>Setting up a ROS2-based Multi-Agent System implementing the Contract Net Protocol and IDS Connectors</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_15.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Dennis Maecker, Henning Gösling and Timon Sachweh. <em>Setting up a ROS2-based Multi-Agent System implementing the Contract Net Protocol and IDS Connectors</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_15.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 1 - Paper 2.pptx' | relative_url }}"> Slides </a>)</td>
   </tr>
 </table>
 
