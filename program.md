@@ -76,11 +76,11 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>10:30-11:00</b></td>
-    <td>Sanjay Chandlekar and Easwar Subramanian. <em>A Novel Bidding Strategy for PDAs using MCTS in Continuous Action Spaces</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_3.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Sanjay Chandlekar and Easwar Subramanian. <em>A Novel Bidding Strategy for PDAs using MCTS in Continuous Action Spaces</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_3.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 2 - Paper 1.pdf' | relative_url }}"> Slides </a>)</td>
   </tr>
   <tr>
     <td NOWRAP><b>11:00-11:30</b></td>
-    <td>Sizhe Wang, Long Qian, Cairun Yi, Fan Wu, Qian Kou, Mingyang Li, Xingyu Chen and Xuguang Lan. <em>SADMA: Scalable Asynchronous Distributed Multi-Agent Reinforcement Learning Training Framework</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_5.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Sizhe Wang, Long Qian, Cairun Yi, Fan Wu, Qian Kou, Mingyang Li, Xingyu Chen and Xuguang Lan. <em>SADMA: Scalable Asynchronous Distributed Multi-Agent Reinforcement Learning Training Framework</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_5.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 2 - Paper 2.pptx' | relative_url }}"> Slides </a>)</td>
   </tr>
 </table>
 
