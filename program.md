@@ -124,11 +124,11 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>9:20-9:40</b></td>
-    <td>Michael Winikoff. <em>Towards Engineering Explainable Autonomous Systems</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_1.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Michael Winikoff. <em>Towards Engineering Explainable Autonomous Systems</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_1.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 6 - Paper 1.pdf' | relative_url }}"> Slides </a></td>
   </tr>
   <tr>
     <td NOWRAP><b>9:40-10:00</b></td>
-    <td>Dennis Maecker, Felix Harenbrock, Henning Gösling, Timon Sachweh and Oliver Thomas. <em>Synergizing Trust and Autonomy: Gaia-X Enabled Multi-Agent Ecosystems for Advanced Freight Fleet Management</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_10.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Dennis Maecker, Felix Harenbrock, Henning Gösling, Timon Sachweh and Oliver Thomas. <em>Synergizing Trust and Autonomy: Gaia-X Enabled Multi-Agent Ecosystems for Advanced Freight Fleet Management</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_10.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 6 - Paper 2.pptx' | relative_url }}"> Slides </a></td>
   </tr>
 </table>
 
@@ -137,11 +137,11 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>10:30-11:00</b></td>
-    <td>Yi Yang and Tom Holvoet. <em>Enhancing Confidence of the vGOAL Interpreter Using SAT Solving</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_2.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Yi Yang and Tom Holvoet. <em>Enhancing Confidence of the vGOAL Interpreter Using SAT Solving</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_2.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 7 - Paper 1.pptx' | relative_url }}"> Slides </a></td>
   </tr>
   <tr>
     <td NOWRAP><b>11:00-11:30</b></td>
-    <td>Samira Shirzadehhajimahmood, Wishnu Prasetya, Mehdi Dastani and Frank Dignum. <em>Cooperative Multi-agent Approach for Automated Computer Game Testing</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_17.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Samira Shirzadehhajimahmood, Wishnu Prasetya, Mehdi Dastani and Frank Dignum. <em>Cooperative Multi-agent Approach for Automated Computer Game Testing</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_17.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 7 - Paper 2.pdf' | relative_url }}"> Slides </a></td>
   </tr>
 </table>
 
@@ -154,6 +154,6 @@ I will then discuss recent work on a practical technique for recognising common 
   </tr>
   <tr>
     <td NOWRAP><b>11:50-12:10</b></td>
-    <td>Emiliano Lorini, Magalie Ochs and Nicolas Sabouret. <em>Cognitive Planning for Persuasive Multimodal Interaction</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_18.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Emiliano Lorini, Magalie Ochs and Nicolas Sabouret. <em>Cognitive Planning for Persuasive Multimodal Interaction</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_18.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 8 - Paper 2.pdf' | relative_url }}"> Slides </a></td>
   </tr>
 </table>
