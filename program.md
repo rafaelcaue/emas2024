@@ -89,11 +89,11 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>11:30-12:00</b></td>
-    <td>Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. <em>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_9.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Marcel Mauri, Ömer Ibrahim Erduran and Mirjam Minor. <em>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_9.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 3 - Paper 1.pptx' | relative_url }}"> Slides </a>)</td>
   </tr>
   <tr>
     <td NOWRAP><b>12:00-12:30</b></td>
-    <td>Masaki Ishizaka, Akihito Taya and Yoshito Tobe. <em>SPARKIT: A Mind Map-Based MAS for Idea Generation Support</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_11.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Masaki Ishizaka, Akihito Taya and Yoshito Tobe. <em>SPARKIT: A Mind Map-Based MAS for Idea Generation Support</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_11.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 3 - Paper 2.pptx' | relative_url }}"> Slides </a>)</td>
   </tr>
 </table>
 
@@ -102,11 +102,11 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>15:00-15:30</b></td>
-    <td>Martina Baiardi, Samuele Burattini, Giovanni Ciatto, Danilo Pianini, Alessandro Ricci and Andrea Omicini. <em>On the external concurrency of current BDI frameworks for MAS</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_14.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Martina Baiardi, Samuele Burattini, Giovanni Ciatto, Danilo Pianini, Alessandro Ricci and Andrea Omicini. <em>On the external concurrency of current BDI frameworks for MAS</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_14.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 4 - Paper 1.pdf' | relative_url }}"> Slides </a>)</td>
   </tr>
   <tr>
     <td NOWRAP><b>15:30-16:00</b></td>
-    <td>Alexandre Yukio Ichida, Felipe Meneguzzi and Rafael C. Cardoso. <em>BDI Agents in Natural Language Environments</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_13.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Alexandre Yukio Ichida, Felipe Meneguzzi and Rafael C. Cardoso. <em>BDI Agents in Natural Language Environments</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_13.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 4 - Paper 2.pdf' | relative_url }}"> Slides </a>)</td>
   </tr>
 </table>
 
@@ -115,7 +115,7 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>16:30-16:50</b></td>
-    <td>Alessandro Ricci, Samuele Burattini, Matteo Castellucci and Andrei Ciortea. <em>Agents for DDD – Back and Forth</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_7.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Alessandro Ricci, Samuele Burattini, Matteo Castellucci and Andrei Ciortea. <em>Agents for DDD – Back and Forth</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_7.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 5 - Paper 1.pdf' | relative_url }}"> Slides </a>)</td>
   </tr>
 </table>
 
@@ -150,7 +150,7 @@ I will then discuss recent work on a practical technique for recognising common 
 <table>
   <tr>
     <td NOWRAP><b>11:30-11:50</b></td>
-    <td>Alessandro Ricci, Stefano Mariani, Franco Zambonelli, Samuele Burattini and Cristiano Castelfranchi. <em>The Cognitive Hourglass: Agent Abstractions in the Large Models Era</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_6.pdf' | relative_url }}"> PDF </a>) (Slides)</td>
+    <td>Alessandro Ricci, Stefano Mariani, Franco Zambonelli, Samuele Burattini and Cristiano Castelfranchi. <em>The Cognitive Hourglass: Agent Abstractions in the Large Models Era</em> (<a target="_blank" href="{{ '/assets/papers/EMAS_2024_paper_6.pdf' | relative_url }}"> PDF </a>) (<a target="_blank" href="{{ '/assets/slides/Sesssion 8 - Paper 1.pdf' | relative_url }}"> Slides </a>)</td>
   </tr>
   <tr>
     <td NOWRAP><b>11:50-12:10</b></td>
