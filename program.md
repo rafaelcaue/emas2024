@@ -13,7 +13,7 @@ Invited talks are up to 60 minutes (up to 50 minutes of presentation and at leas
 |                 | **Monday (May 6)**                                 | **Tuesday (May 7)**                                           |
 |-----------------|----------------------------------------------------|---------------------------------------------------------------|
 | **8:00-8:30**   | Registration Opens                                 | Registration Opens                                            |
-| **8:30-9:20**   | Arrival & Welcome                                  | Arrival & Welcome                                             |
+| **8:30-9:20**   | Arrival & Welcome (<a target="_blank" href="{{ '/assets/slides/welcome.pdf' | relative_url }}"> Slides </a>)                                  | Arrival & Welcome                                             |
 | **9:20-10:00**  | [Session 1 (short): Agent Design I](#s1)           | [Session 6 (short): Explainability and Trust](#s6)            |
 | **10:00-10:30** | Coffee Break                                       | Coffee Break                                                  |
 | **10:30-11:30** | [Session 2: Planning and Learning](#s2)            | [Session 7: Correctness and Testing](#s7)                     |
