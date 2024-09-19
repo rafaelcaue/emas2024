@@ -17,7 +17,7 @@ entries_layout: list
 - Matteo Baldoni (Università di Torino, Italy)
 - Cristina Baroglio (Università di Torino, Italy)
 - Olivier	Boissier (Mines Saint-Etienne, France)
-- Rafael Bordini (Nelogica, Brazil)
+- Rafael Bordini (PUCRS, Brazil)
 - Maiquel	de Brito (Federal University of Santa Catarina, Brazil)
 - Moharram Challenger (University of Antwerp, Belgium)
 - Amit Chopra (Lancaster University, UK)
