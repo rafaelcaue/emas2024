@@ -49,3 +49,8 @@ A key unifying theme underlying Artificial Intelligence is the idea of intellige
   </tr>
 </tbody>
 </table>
+
+***
+
+# Post-Proceedings
+The EMAS 2024 post-proceedings are available at: [https://link.springer.com/book/9783031711510](https://link.springer.com/book/9783031711510)
